@@ -43,3 +43,6 @@ float: inherit;
         font-size: 47px;
         text-transform: capitalize;
           }
+.colum {
+      column-count: 3;
+      }
