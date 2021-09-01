@@ -1,0 +1,45 @@
+body {
+  background-color:  darkred;
+}
+
+.photobox{
+	border-style:  solid double solid double;
+
+	  border-width: 7px;
+		float: right;
+		background-color: #8B0000;
+	  margin: 0 20px 8px 0;
+		padding: 7px;
+		}
+.photocredit{
+			text-align: center;
+			text-transform: uppercase;
+			color: red;
+			font-size: .9em;
+			padding: 5px;
+			}
+.paragraph {
+      border-style: solid double solid double;
+      border-width: 12px;
+	  background-color: #808080;
+      margin: 17px;
+	  padding: 100px;
+		  }
+div {
+	  padding: 25px;
+      border-width: 19px;
+      margin: 27px;
+      background-color: #000000;
+	   border-style: ridge;
+
+    }
+img {
+max-width: 50%;
+height: auto;
+float: inherit;
+}
+.homepage {
+        text-align: center;
+        font-size: 47px;
+        text-transform: capitalize;
+          }
