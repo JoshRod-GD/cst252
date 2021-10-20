@@ -14,17 +14,7 @@ p {
 }
 
 
-.red-text {
-  color: red;
-  font-size: 60px;
-}
-
-.green-text {
-  color: green;
-  font-size: 60px;
-}
-
-.orange-text {
-  color: orange;
-  font-size: 60px;
+h3 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 15;
 }
